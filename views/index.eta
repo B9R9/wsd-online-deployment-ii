@@ -1,0 +1,2 @@
+<% layout("./layouts/layout.eta") %>
+<p>Nothing here yet.</p>
